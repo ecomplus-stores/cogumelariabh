@@ -1,26 +1,26 @@
 {
-  "store_id": 43576,
-  "name": "cogumelariabh",
   "domain": "cogumelariabh.netlify.app",
-  "short_name": "cogumelariabh",
-  "description": "cogumelariabh",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "clean-gray"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/cogumelariabh",
+  "logo": "/img/uploads/logo-final-cogumelariabhpng.png",
+  "name": "cogumelariabh",
+  "short_name": "cogumelariabh",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR",
-  "repository": "ecomplus-stores/cogumelariabh",
+  "mini_logo": "",
+  "font_family": "_",
+  "favicon": "/img/uploads/logo-final-cogumelariabhpng.png",
   "icons_font": "_",
-  "font_family": "_"
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/logo-final-cogumelariabhpng.png",
+  "store_id": 43576,
+  "description": "cogumelariabh",
+  "large_icon": "/img/uploads/logo-final-cogumelariabhpng.png"
 }
