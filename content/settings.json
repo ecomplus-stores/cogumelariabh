@@ -1,7 +1,7 @@
 {
   "domain": "cogumelariabh.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#103f58",
+  "primary_color": "#08588c",
   "theme": {
     "bootswatch": "spacelab",
     "custom": "clean-white"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/teste1.jpg",
   "icons_font": "font-awesome",
   "country_code": "BR",
-  "secondary_color": "#146072",
+  "secondary_color": "#fc9702",
   "icon": "/img/uploads/teste1.jpg",
   "store_id": 43576,
   "description": "Loja online de venda de cogumelos naturais do Brasil.",
