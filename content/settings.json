@@ -3,24 +3,24 @@
   "currency_symbol": "R$",
   "primary_color": "#103f58",
   "theme": {
-    "bootswatch": "solar",
+    "bootswatch": "spacelab",
     "custom": "clean-white"
   },
   "bg_color": "#fefeff",
   "repository": "ecomplus-stores/cogumelariabh",
-  "logo": "/img/uploads/ok2.png",
+  "logo": "/img/uploads/teste1.jpg",
   "name": "Cogumelaria BH",
   "short_name": "Cogumelaria BH",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "Outfit",
-  "favicon": "/img/uploads/ok2.png",
+  "font_family": "Merriweather",
+  "favicon": "/img/uploads/teste1.jpg",
   "icons_font": "font-awesome",
   "country_code": "BR",
   "secondary_color": "#146072",
-  "icon": "/img/uploads/ok2.png",
+  "icon": "/img/uploads/teste1.jpg",
   "store_id": 43576,
   "description": "Loja online de venda de cogumelos naturais do Brasil.",
-  "large_icon": "/img/uploads/ok2.png"
+  "large_icon": "/img/uploads/teste1.jpg"
 }
