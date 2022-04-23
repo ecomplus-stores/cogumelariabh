@@ -3,7 +3,7 @@
   "currency_symbol": "R$",
   "primary_color": "#08588c",
   "theme": {
-    "bootswatch": "spacelab",
+    "bootswatch": "solar",
     "custom": "clean-white"
   },
   "bg_color": "#fefeff",
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/teste1.jpg",
   "icons_font": "font-awesome",
   "country_code": "BR",
-  "secondary_color": "#fc9702",
+  "secondary_color": "#ff7600",
   "icon": "/img/uploads/teste1.jpg",
   "store_id": 43576,
   "description": "Loja online de venda de cogumelos naturais do Brasil.",
