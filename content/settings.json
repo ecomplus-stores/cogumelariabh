@@ -4,7 +4,7 @@
   "primary_color": "#08588c",
   "theme": {
     "bootswatch": "solar",
-    "custom": "clean-white"
+    "custom": "niche-game"
   },
   "bg_color": "#fefeff",
   "repository": "ecomplus-stores/cogumelariabh",
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/teste1.jpg",
   "icons_font": "font-awesome",
   "country_code": "BR",
-  "secondary_color": "#ff7600",
+  "secondary_color": "#2aa6f0",
   "icon": "/img/uploads/teste1.jpg",
   "store_id": 43576,
   "description": "Loja online de venda de cogumelos naturais do Brasil.",
