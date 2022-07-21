@@ -1,26 +1,14 @@
 {
   "marketing_stripe": {
-    "text": "CONECTANDO MENTE E ALMA",
+    "text": "",
     "link": "",
-    "background": "#212471",
-    "color": "#ffffff"
+    "background": "",
+    "color": ""
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
-      },
-      {
-        "title": "Termo de responsabilidade"
-      }
-    ],
-    "phone_wpp": true,
-    "socials": true
+    "pages": [],
+    "phone_wpp": false,
+    "socials": false
   },
   "categories_list": {
     "featured": [],
