@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.06bd5a798b9f7b532bb97bdf14eb5310.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.41ba4fab537887c426cfdf30ddf24dc1.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.09765500f8e1734337935c9116b48321.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.35d445c717c0ae5fd8be2e54b4776634.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.ff936d7c2cb27119152280c4bffdffd5.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Cogumelaria BH",
+  "short_name": "Cogumelaria BH",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Loja online de venda de cogumelos naturais do Brasil.",
+  "background_color": "#fefeff",
+  "theme_color": "#08588c"
+}
