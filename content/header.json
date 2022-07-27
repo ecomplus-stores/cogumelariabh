@@ -2,13 +2,13 @@
   "marketing_stripe": {
     "text": "Descontos de até 20%",
     "link": "https://www.cogumelariabh.com.br/tat",
-    "background": "#260ea8",
+    "background": "#2b3f7d",
     "color": "#000000"
   },
   "contacts_stripe": {
     "pages": [],
-    "phone_wpp": true,
-    "socials": true
+    "phone_wpp": false,
+    "socials": false
   },
   "categories_list": {
     "featured": [],
