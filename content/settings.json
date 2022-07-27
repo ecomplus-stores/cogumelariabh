@@ -1,12 +1,12 @@
 {
   "domain": "www.cogumelariabh.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#08588c",
+  "primary_color": "#2b3f7d",
   "theme": {
     "bootswatch": "spacelab",
     "custom": "clean-white"
   },
-  "bg_color": "#2020c4",
+  "bg_color": "#f0f0fa",
   "repository": "ecomplus-stores/cogumelariabh",
   "logo": "/img/uploads/logo-final-cogumelariabhpng.png",
   "name": "Cogumelaria BH",
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/logo-final-cogumelariabhpng.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#2aa6f0",
+  "secondary_color": "#f5f1ff",
   "icon": "/img/uploads/logo-final-cogumelariabhpng.png",
   "store_id": 43576,
   "description": "Loja online de venda de cogumelos naturais do Brasil.",
