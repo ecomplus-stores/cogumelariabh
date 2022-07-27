@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#08588c",
   "theme": {
-    "bootswatch": "minty",
-    "custom": "clean-gray"
+    "bootswatch": "spacelab",
+    "custom": "clean-white"
   },
   "bg_color": "#2020c4",
   "repository": "ecomplus-stores/cogumelariabh",
