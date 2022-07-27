@@ -3,10 +3,10 @@
   "currency_symbol": "R$",
   "primary_color": "#08588c",
   "theme": {
-    "bootswatch": "solar",
-    "custom": "clean-white"
+    "bootswatch": "minty",
+    "custom": "niche-baby"
   },
-  "bg_color": "#fefeff",
+  "bg_color": "#2020c4",
   "repository": "ecomplus-stores/cogumelariabh",
   "logo": "/img/uploads/logo-final-cogumelariabhpng.png",
   "name": "Cogumelaria BH",
@@ -16,7 +16,7 @@
   "mini_logo": "",
   "font_family": "Poppins",
   "favicon": "/img/uploads/logo-final-cogumelariabhpng.png",
-  "icons_font": "font-awesome",
+  "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#2aa6f0",
   "icon": "/img/uploads/logo-final-cogumelariabhpng.png",
