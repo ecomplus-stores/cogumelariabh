@@ -1,6 +1,6 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "Cogumelo mágicos, psilocybe cubensis, magic mushroom",
+  "meta_description": "Cogumelo mágicos, psilocybe cubensis, magic mushroom",
   "sections": [
     {
       "type": "banner-slider",
@@ -12,15 +12,8 @@
           "link": "/headset",
           "alt": "Headset banner",
           "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
+          "end": "2027-08-07T18:57:47.734Z",
           "mobile_img": "/img/uploads/banner1.png"
-        },
-        {
-          "img": "/img/uploads/banner1.png",
-          "alt": "Banner sample two",
-          "start": "",
-          "end": "",
-          "mobile_img": "/img/uploads/passion.webp"
         }
       ]
     },
