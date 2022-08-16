@@ -4,8 +4,8 @@
     "text": "Entregamos para todo o Brasil"
   },
   "installments": {
-    "show": false,
-    "text": "Parcele sem juros"
+    "show": true,
+    "text": "Parcele de até 12x"
   },
   "exchange": {
     "show": false,
