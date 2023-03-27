@@ -2,11 +2,11 @@
   "sections": [
     {
       "type": "search-engine",
-      "enabled": false
+      "enabled": true
     },
     {
       "type": "search-engine",
-      "enabled": true
+      "enabled": false
     }
   ]
 }
