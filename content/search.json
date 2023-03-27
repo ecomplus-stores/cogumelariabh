@@ -2,11 +2,16 @@
   "sections": [
     {
       "type": "search-engine",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "search-engine",
-      "enabled": false
+      "enabled": true
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false
     }
   ]
 }
