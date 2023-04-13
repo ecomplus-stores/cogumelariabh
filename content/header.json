@@ -11,16 +11,13 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/cogumelos-secos?Cogumelos Desidratados",
-      "/cogumelos-frescos?Cogumelos frescos"
-    ],
-    "random": 6,
-    "full_width": true
+    "featured": [],
+    "random": 0,
+    "full_width": false
   },
   "desktop_megamenu": true,
   "search_input": true,
   "full_width_submenu": true,
   "alphabetical_order_submenu": true,
-  "centralized_logo": true
+  "centralized_logo": false
 }
