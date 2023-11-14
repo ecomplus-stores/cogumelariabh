@@ -19,14 +19,15 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": null,
-      "sort": "news",
+      "autoplay": 1000,
+      "page": 1,
       "title": "Todos nossos produtos",
+      "shuffle": true,
       "headless": false,
-      "limit": 12,
-      "page": 1
+      "type": "collection-shelf",
+      "limit": 11,
+      "collection_id": null,
+      "sort": "news"
     },
     {
       "type": "page-title",
