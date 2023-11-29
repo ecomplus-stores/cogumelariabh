@@ -21,13 +21,13 @@
     {
       "autoplay": 1000,
       "page": 1,
-      "title": "Todos nossos produtos",
-      "shuffle": true,
+      "title": "Cogumelos desidratados",
+      "shuffle": false,
       "headless": false,
       "type": "collection-shelf",
       "limit": 11,
-      "collection_id": null,
-      "sort": "news"
+      "collection_id": "623390ee2e405e04ffe50877:categories:Cogumelos Desidratados:/cogumelos-secos",
+      "sort": "views"
     },
     {
       "type": "page-title",
