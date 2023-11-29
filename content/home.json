@@ -30,6 +30,17 @@
       "sort": "views"
     },
     {
+      "autoplay": 1000,
+      "page": 1,
+      "title": "Cogumelos frescos",
+      "shuffle": false,
+      "headless": false,
+      "type": "collection-shelf",
+      "limit": 12,
+      "collection_id": "64219aae4bd2e929c1b30c0a:categories:Cogumelos frescos:/cogumelos-frescos",
+      "sort": "views"
+    },
+    {
       "type": "page-title",
       "title": "Loja especializada na produção e venda de cogumelos ",
       "description": "Aqui você encontra os melhores cogus "
