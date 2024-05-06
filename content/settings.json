@@ -4,11 +4,11 @@
   "primary_color": "#118ab2",
   "theme": {
     "bootswatch": "solar",
-    "custom": "clean-dark"
+    "custom": "clean-gray"
   },
   "bg_color": "#000000",
   "repository": "ecomplus-stores/cogumelariabh",
-  "logo": "/img/uploads/logo-espaco.jpg",
+  "logo": "/img/uploads/design-sem-nome.png",
   "name": "Cogumelaria BH",
   "short_name": "Cogumelaria BH",
   "lang": "pt_br",
