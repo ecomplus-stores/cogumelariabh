@@ -16,7 +16,7 @@
     {
       "type": "category-retail",
       "enabled": true,
-      "sort": "news"
+      "sort": "sales"
     },
     {
       "type": "document-description",
