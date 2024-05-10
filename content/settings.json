@@ -10,7 +10,7 @@
   "repository": "ecomplus-stores/cogumelariabh",
   "logo": "/img/uploads/design-sem-nome.png",
   "name": "Cogumelaria BH",
-  "short_name": "Cogumelaria BH",
+  "short_name": "Cogumelaria",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -21,6 +21,6 @@
   "secondary_color": "#073b4c",
   "icon": "/img/uploads/design-sem-nome.png",
   "store_id": 43576,
-  "description": "Loja online de venda de cogumelos culinários. ",
+  "description": "Loja online de venda de cogumelos funcionais como Juba de Leão e Reish.",
   "large_icon": "/img/uploads/design-sem-nome.png"
 }
