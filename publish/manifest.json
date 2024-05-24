@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.645c3d1b4e3f693757009b8d3da7db03.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.da48e21b3ae532cc11bb6b44657da203.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.c75771b546a8e5a8407b62913ef06829.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.b89daa27856459a3b0edb37a11056284.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.09407f84632ef3e4fdcf87059bd90af9.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Cogumelaria BH",
+  "short_name": "Cogumelaria",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Loja online de venda de cogumelos funcionais como Juba de Leão e Reish.",
+  "background_color": "#000000",
+  "theme_color": "#118ab2"
+}
