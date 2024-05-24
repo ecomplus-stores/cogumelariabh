@@ -21,23 +21,12 @@
     {
       "autoplay": 1000,
       "page": 1,
-      "title": "Cogumelos desidratados",
+      "title": "Extratos de Cogumelos Funcionais",
       "shuffle": false,
       "headless": false,
       "type": "collection-shelf",
       "limit": 15,
-      "collection_id": "623390ee2e405e04ffe50877:categories:Cogumelos Desidratados:/cogumelos-secos",
-      "sort": "views"
-    },
-    {
-      "autoplay": 1000,
-      "page": 1,
-      "title": "Cogumelos frescos",
-      "shuffle": false,
-      "headless": false,
-      "type": "collection-shelf",
-      "limit": 12,
-      "collection_id": "623390ee2e405e04ffe50877:categories:Cogumelos Funcionais:/cogumelos-funcionais",
+      "collection_id": "623390ee2e405e04ffe50877:categories:Extratos de Cogumelos Funcionais:/cogumelos-funcionais",
       "sort": "views"
     },
     {
